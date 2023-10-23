@@ -7,7 +7,6 @@ export const Bio = {
   roles: [
     "Information Security ",
     "Data Analytics",
-    "UI/UX Designer",
     "Computer Vision",
   ],
   description:
